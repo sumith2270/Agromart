@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "575179018709",
-    "firebase_url": "https://agromart-c2e9b.firebaseio.com",
-    "project_id": "agromart-c2e9b",
-    "storage_bucket": "agromart-c2e9b.appspot.com"
+    "project_number": "612458930242",
+    "firebase_url": "https://agromart-826a9.firebaseio.com",
+    "project_id": "agromart-826a9",
+    "storage_bucket": "agromart-826a9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:575179018709:android:f8e0aeb1afc80ed3c6ed5c",
+        "mobilesdk_app_id": "1:612458930242:android:7997ba60d07ee5d59e4ddb",
         "android_client_info": {
           "package_name": "com.example.agromart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "575179018709-6c9sffdauq13bcnfn9l1hmq2ou4r6t85.apps.googleusercontent.com",
+          "client_id": "612458930242-4au2agj00m3ua9jui8brt94b3fd5h9ja.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.agromart",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "575179018709-0030hslgd85qk4f28p27a80cihr8ensn.apps.googleusercontent.com",
+          "client_id": "612458930242-94jfc60e5chb9h0d34n5jvcd5g2lglm6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB6aZz5TPgKEwWI369c0WkmFJYfV_3gwkQ"
+          "current_key": "AIzaSyADGINIMor75jYWkqxhbBnMfZHYP4hyfFo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "575179018709-0030hslgd85qk4f28p27a80cihr8ensn.apps.googleusercontent.com",
+              "client_id": "612458930242-94jfc60e5chb9h0d34n5jvcd5g2lglm6.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

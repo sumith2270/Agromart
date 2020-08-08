@@ -28,8 +28,8 @@ public class Homescreen extends AppCompatActivity {
     public void logout(View view){
         FirebaseAuth.getInstance().signOut();
         mGoogleSignInClient.signOut();
-        startActivity(new Intent(Homescreen.this,Loginscreen.class));
+        startActivity(new Intent(Homescreen.this,Loginscreen2.class));
         overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
-
+        finish();
     }
 }

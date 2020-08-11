@@ -4,8 +4,6 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-
-
     <application
         android:allowBackup="true"
         android:icon="@drawable/icon"
@@ -13,7 +11,11 @@
         android:roundIcon="@drawable/icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
-        <activity android:name=".Register_as_seller"></activity>
+        <activity
+            android:name=".Buyer.Buyer_homescreen"
+            android:label="@string/title_activity_buyer_homescreen"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen.NoActionBar"></activity>
+        <activity android:name=".Register_as_seller" />
         <activity android:name=".Register_as_buyer" />
         <activity android:name=".Loginscreen2" />
         <activity android:name=".Homescreen" />
